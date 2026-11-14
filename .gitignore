@@ -1,0 +1,7 @@
+/data/raw/
+*.pbix
+.ipynb_checkpoints/
+/anaconda_projects/
+__pycache__/
+.venv/
+.env
